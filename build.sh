@@ -1,3 +1,3 @@
 ./autogen.sh
-./configure
+./configure --without-png
 make
